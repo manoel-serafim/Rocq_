@@ -1,0 +1,3 @@
+Module section0
+  Definition b : rgb := blue.
+End section0.
