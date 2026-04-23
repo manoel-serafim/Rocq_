@@ -1,7 +1,7 @@
 Inductive wk_d_t : Type :=
   | sun
   | mon
-  | tue
+  | tuew
   | wed
   | thu
   | fri
